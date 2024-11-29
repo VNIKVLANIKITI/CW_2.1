@@ -1,0 +1,17 @@
+[
+{
+  "model": "letters.mailing",
+  "pk": 1,
+  "fields": {
+    "first_send_time": "2024-11-09T14:51:32Z",
+    "periodicity": "monthly",
+    "status": "created",
+    "messages": 1,
+    "attemtps": null,
+    "customers": [
+      9,
+      5
+    ]
+  }
+}
+]
